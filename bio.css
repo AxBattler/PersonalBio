@@ -1,0 +1,39 @@
+p.interests {
+  width: 80%;
+  float: left;
+}
+
+#intro {
+  width: 40%;
+  text-align: left;
+}
+
+p + ul {
+  border-style: solid;
+  border-color: violet;
+}
+ul {
+  width: 20%;
+  float: left;
+}
+div.nav-tab {
+  background-color: turquoise;
+  border-color: teal;
+  border-style: groove;
+  width: 7em;
+  text-align: center;
+}
+
+#computingBio {
+  width: 40%;
+  text-align: left;
+}
+
+a.navigation {
+  text-decoration: none;
+  color: blue;
+}
+
+a:hover {
+  background-color: lightblue;
+}
